@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Birthday Alizay ❤️</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{margin:0;height:100vh;display:flex;justify-content:center;align-items:center;background:radial-gradient(circle at top,#2a0a18,#000);color:white;font-family:cursive;overflow:hidden;text-align:center}
+.box{z-index:2;padding:25px;background:rgba(255,255,255,0.06);border-radius:25px;border:1px solid rgba(255,77,141,0.3);box-shadow:0 0 30px rgba(255,77,141,0.3)}
+h1{font-size:40px;color:#ff4d8d;text-shadow:0 0 20px #ff4d8d;animation:beat 1.2s infinite}
+@keyframes beat{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+h2{color:#ffc2dc;font-weight:normal}
+.heart{position:absolute;animation:float 6s linear infinite}
+@keyframes float{0%{bottom:-10vh;opacity:1}100%{bottom:110vh;opacity:0}}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Happy Birthday Alizay 🎂❤️</h1>
+<h2>You are only mine</h2>
+<h2>I
